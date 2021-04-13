@@ -3,7 +3,7 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: Jdbc:mysql://localhost:3306/hibdb
+    url: jdbc:mysql://localhost:3306/hibdb
     username: root
     password: root
   jpa:
